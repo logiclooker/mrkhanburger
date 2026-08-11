@@ -1,0 +1,262 @@
+{
+  "categories": [
+    {
+      "id": "originals",
+      "label": "Originals"
+    },
+    {
+      "id": "sausage",
+      "label": "Sausage"
+    },
+    {
+      "id": "seekh-kabab",
+      "label": "Seekh Kabab"
+    },
+    {
+      "id": "chapli-kabab",
+      "label": "Chapli Kabab"
+    },
+    {
+      "id": "combos",
+      "label": "Special Combos"
+    },
+    {
+      "id": "fries",
+      "label": "Fries"
+    },
+    {
+      "id": "sauces",
+      "label": "Sauces & Extras"
+    },
+    {
+      "id": "drinks",
+      "label": "Drinks"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "Simple Afghani",
+      "category": "originals",
+      "desc": "Our classic Afghani wrap \u2014 tender grilled meat rolled in warm naan with fresh salad and house sauce.",
+      "price": 250,
+      "img": "assets/menu/afghani-wrap.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Zinger Afghani (Wrap)",
+      "category": "originals",
+      "desc": "Crispy zinger fillet wrapped in soft naan bread with crunchy salad and our signature spicy mayo.",
+      "price": 400,
+      "img": "assets/menu/zinger-afghani-wrap.png"
+    },
+    {
+      "id": 3,
+      "name": "Double Zinger Afghani (Wrap)",
+      "category": "originals",
+      "desc": "Two crispy zinger fillets stacked in a wrap with extra sauce and crunch for the bigger appetite.",
+      "price": 530,
+      "img": "assets/menu/doub-zinger-afghani-wrap.png"
+    },
+    {
+      "id": 4,
+      "name": "Zinger Burger",
+      "category": "originals",
+      "desc": "A golden, crispy fried chicken fillet stacked in a toasted bun with fresh lettuce and mayo.",
+      "price": 390,
+      "img": "assets/menu/zinger-burger.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Zinger Ultra",
+      "category": "originals",
+      "desc": "Our biggest zinger burger \u2014 extra fillet, extra cheese, extra everything for the ultimate bite.",
+      "price": 569,
+      "img": "assets/menu/zinger-ultra.png"
+    },
+    {
+      "id": 6,
+      "name": "Chapli Burger",
+      "category": "originals",
+      "desc": "Traditional spiced chapli kabab patty layered with melted cheese in a soft toasted bun.",
+      "price": 440,
+      "img": "assets/menu/chapli-burger.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Single Sausage Afghani",
+      "category": "sausage",
+      "desc": "Smoky grilled sausage wrapped in warm naan with fresh salad and house sauce.",
+      "price": 350,
+      "img": "assets/menu/single-sausage.png"
+    },
+    {
+      "id": 8,
+      "name": "Double Sausage Afghani",
+      "category": "sausage",
+      "desc": "Double the smoky grilled sausage in every wrap, loaded with fresh salad and sauce.",
+      "price": 390,
+      "img": "assets/menu/double-sausage.png"
+    },
+    {
+      "id": 9,
+      "name": "Single Seekh Kabab Afghani",
+      "category": "seekh-kabab",
+      "desc": "Char-grilled beef seekh kabab wrapped in naan with fresh salad and our signature chutni.",
+      "price": 350,
+      "img": "assets/menu/seekh-afghani.png"
+    },
+    {
+      "id": 10,
+      "name": "Double Seekh Kabab Afghani",
+      "category": "seekh-kabab",
+      "desc": "Two skewers of char-grilled seekh kabab piled into a warm wrap for a hearty meal.",
+      "price": 390,
+      "img": "assets/menu/doub-seekh-afghani.png"
+    },
+    {
+      "id": 11,
+      "name": "Single Chapli Afghani",
+      "category": "chapli-kabab",
+      "desc": "Spiced chapli kabab wrapped in warm naan with fresh salad and our signature Phuppo chutni.",
+      "price": 360,
+      "img": "assets/menu/chapli-afghani.png"
+    },
+    {
+      "id": 12,
+      "name": "Double Chapli Afghani",
+      "category": "chapli-kabab",
+      "desc": "Double the spiced chapli kabab patties, wrapped in naan with fresh salad and chutni.",
+      "price": 399,
+      "img": "assets/menu/doub-chapli-afghani.png"
+    },
+    {
+      "id": 13,
+      "name": "Zinger + Sausage Afghani",
+      "category": "combos",
+      "desc": "The best of both worlds \u2014 crispy zinger and smoky sausage in one loaded Afghani wrap.",
+      "price": 470,
+      "img": "assets/menu/zinger-sausage-afghani.png"
+    },
+    {
+      "id": 14,
+      "name": "Zinger + Seekh Kabab Afghani (Wrap)",
+      "category": "combos",
+      "desc": "Crispy zinger fillet paired with char-grilled seekh kabab, all rolled in one hearty wrap.",
+      "price": 470,
+      "img": "assets/menu/zinger-seekh-afghani.png"
+    },
+    {
+      "id": 15,
+      "name": "Zinger + Chapli Kabab Afghani (Wrap)",
+      "category": "combos",
+      "desc": "Crispy zinger and spiced chapli kabab combined in a single flavour-packed wrap.",
+      "price": 490,
+      "img": "assets/menu/zinger-chapli-afghani.png"
+    },
+    {
+      "id": 16,
+      "name": "Sausage + Chapli Kabab Afghani",
+      "category": "combos",
+      "desc": "Smoky sausage and spiced chapli kabab together in one loaded Afghani wrap.",
+      "price": 440,
+      "img": "assets/menu/sausage-chapli-afghani.png"
+    },
+    {
+      "id": 17,
+      "name": "Sausage + Seekh Kabab Afghani",
+      "category": "combos",
+      "desc": "Smoky sausage paired with char-grilled seekh kabab, rolled into one satisfying wrap.",
+      "price": 420,
+      "img": "assets/menu/sausage+seekh-afghani.png"
+    },
+    {
+      "id": 18,
+      "name": "Mr Khan's Special",
+      "category": "combos",
+      "desc": "Our signature house special, loaded with a mix of our finest grilled meats and secret sauces.",
+      "price": 650,
+      "img": "assets/menu/zinger-ultra.png"
+    },
+    {
+      "id": 19,
+      "name": "Afghani Platter",
+      "category": "combos",
+      "desc": "A generous sharing platter of our signature Afghani favourites, perfect for the table.",
+      "price": 650,
+      "img": "assets/menu/doub-zinger-afghani-wrap.png"
+    },
+    {
+      "id": 20,
+      "name": "Monster Burger",
+      "category": "combos",
+      "desc": "A towering, larger-than-life burger stacked with layers of grilled meat and cheese.",
+      "price": 700,
+      "img": "assets/gallery/one-monster-burger.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Regular Fries",
+      "category": "fries",
+      "desc": "Golden, crispy fries \u2014 the perfect side to any order.",
+      "price": 150,
+      "img": "assets/menu/regular-fries.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Large Fries",
+      "category": "fries",
+      "desc": "A bigger portion of our golden crispy fries, great for sharing.",
+      "price": 200,
+      "img": "assets/menu/large-fries.png"
+    },
+    {
+      "id": 23,
+      "name": "Mayo Sauce",
+      "category": "sauces",
+      "desc": "Creamy house mayo, perfect for dipping fries or topping your wrap.",
+      "price": 60,
+      "img": "assets/menu/mayo.png"
+    },
+    {
+      "id": 24,
+      "name": "Extra Cheese",
+      "category": "sauces",
+      "desc": "Add an extra layer of melted cheese to any order.",
+      "price": 80,
+      "img": "assets/menu/cheese.png"
+    },
+    {
+      "id": 25,
+      "name": "Special Phuppo Chutni",
+      "category": "sauces",
+      "desc": "Our signature house chutni \u2014 a Mr. Khan Burger House original, tangy and full of flavour.",
+      "price": 80,
+      "img": "assets/menu/phuppo-chutni.png"
+    },
+    {
+      "id": 26,
+      "name": "Regular Soft Drink",
+      "category": "drinks",
+      "desc": "Chilled regular soft drink can, served ice-cold.",
+      "price": 80,
+      "img": "assets/menu/drink.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Sting Energy Drink",
+      "category": "drinks",
+      "desc": "Chilled can of Sting energy drink for an extra kick.",
+      "price": 100,
+      "img": "assets/menu/drink.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Diet Soft Drink",
+      "category": "drinks",
+      "desc": "Chilled diet soft drink can, served ice-cold.",
+      "price": 100,
+      "img": "assets/menu/drink.jpg"
+    }
+  ]
+}
