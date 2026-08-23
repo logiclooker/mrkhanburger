@@ -40,7 +40,7 @@
       "category": "originals",
       "desc": "Our classic Afghani wrap \u2014 tender grilled meat rolled in warm naan with fresh salad and house sauce.",
       "price": 250,
-      "img": "assets/menu/afghani-wrap.jpg"
+      "img": "assets/menu/afghani-wrap.webp"
     },
     {
       "id": 2,
@@ -48,7 +48,7 @@
       "category": "originals",
       "desc": "Crispy zinger fillet wrapped in soft naan bread with crunchy salad and our signature spicy mayo.",
       "price": 400,
-      "img": "assets/menu/zinger-afghani-wrap.png"
+      "img": "assets/menu/zinger-afghani-wrap.webp"
     },
     {
       "id": 3,
@@ -56,7 +56,7 @@
       "category": "originals",
       "desc": "Two crispy zinger fillets stacked in a wrap with extra sauce and crunch for the bigger appetite.",
       "price": 530,
-      "img": "assets/menu/doub-zinger-afghani-wrap.png"
+      "img": "assets/menu/doub-zinger-afghani-wrap.webp"
     },
     {
       "id": 4,
@@ -64,7 +64,7 @@
       "category": "originals",
       "desc": "A golden, crispy fried chicken fillet stacked in a toasted bun with fresh lettuce and mayo.",
       "price": 390,
-      "img": "assets/menu/zinger-burger.jpg"
+      "img": "assets/menu/zinger-burger.webp"
     },
     {
       "id": 5,
@@ -72,7 +72,7 @@
       "category": "originals",
       "desc": "Our biggest zinger burger \u2014 extra fillet, extra cheese, extra everything for the ultimate bite.",
       "price": 569,
-      "img": "assets/menu/zinger-ultra.png"
+      "img": "assets/menu/zinger-ultra.webp"
     },
     {
       "id": 6,
@@ -80,7 +80,7 @@
       "category": "originals",
       "desc": "Traditional spiced chapli kabab patty layered with melted cheese in a soft toasted bun.",
       "price": 440,
-      "img": "assets/menu/chapli-burger.jpg"
+      "img": "assets/menu/chapli-burger.webp"
     },
     {
       "id": 7,
@@ -88,7 +88,7 @@
       "category": "sausage",
       "desc": "Smoky grilled sausage wrapped in warm naan with fresh salad and house sauce.",
       "price": 350,
-      "img": "assets/menu/single-sausage.png"
+      "img": "assets/menu/single-sausage.webp"
     },
     {
       "id": 8,
@@ -96,7 +96,7 @@
       "category": "sausage",
       "desc": "Double the smoky grilled sausage in every wrap, loaded with fresh salad and sauce.",
       "price": 390,
-      "img": "assets/menu/double-sausage.png"
+      "img": "assets/menu/double-sausage.webp"
     },
     {
       "id": 9,
@@ -104,7 +104,7 @@
       "category": "seekh-kabab",
       "desc": "Char-grilled beef seekh kabab wrapped in naan with fresh salad and our signature chutni.",
       "price": 350,
-      "img": "assets/menu/seekh-afghani.png"
+      "img": "assets/menu/seekh-afghani.webp"
     },
     {
       "id": 10,
@@ -112,7 +112,7 @@
       "category": "seekh-kabab",
       "desc": "Two skewers of char-grilled seekh kabab piled into a warm wrap for a hearty meal.",
       "price": 390,
-      "img": "assets/menu/doub-seekh-afghani.png"
+      "img": "assets/menu/doub-seekh-afghani.webp"
     },
     {
       "id": 11,
@@ -120,7 +120,7 @@
       "category": "chapli-kabab",
       "desc": "Spiced chapli kabab wrapped in warm naan with fresh salad and our signature Phuppo chutni.",
       "price": 360,
-      "img": "assets/menu/chapli-afghani.png"
+      "img": "assets/menu/chapli-afghani.webp"
     },
     {
       "id": 12,
@@ -128,7 +128,7 @@
       "category": "chapli-kabab",
       "desc": "Double the spiced chapli kabab patties, wrapped in naan with fresh salad and chutni.",
       "price": 399,
-      "img": "assets/menu/doub-chapli-afghani.png"
+      "img": "assets/menu/doub-chapli-afghani.webp"
     },
     {
       "id": 13,
@@ -136,7 +136,7 @@
       "category": "combos",
       "desc": "The best of both worlds \u2014 crispy zinger and smoky sausage in one loaded Afghani wrap.",
       "price": 470,
-      "img": "assets/menu/zinger-sausage-afghani.png"
+      "img": "assets/menu/zinger-sausage-afghani.webp"
     },
     {
       "id": 14,
@@ -144,7 +144,7 @@
       "category": "combos",
       "desc": "Crispy zinger fillet paired with char-grilled seekh kabab, all rolled in one hearty wrap.",
       "price": 470,
-      "img": "assets/menu/zinger-seekh-afghani.png"
+      "img": "assets/menu/zinger-seekh-afghani.webp"
     },
     {
       "id": 15,
@@ -152,7 +152,7 @@
       "category": "combos",
       "desc": "Crispy zinger and spiced chapli kabab combined in a single flavour-packed wrap.",
       "price": 490,
-      "img": "assets/menu/zinger-chapli-afghani.png"
+      "img": "assets/menu/zinger-chapli-afghani.webp"
     },
     {
       "id": 16,
@@ -160,7 +160,7 @@
       "category": "combos",
       "desc": "Smoky sausage and spiced chapli kabab together in one loaded Afghani wrap.",
       "price": 440,
-      "img": "assets/menu/sausage-chapli-afghani.png"
+      "img": "assets/menu/sausage-chapli-afghani.webp"
     },
     {
       "id": 17,
@@ -168,7 +168,7 @@
       "category": "combos",
       "desc": "Smoky sausage paired with char-grilled seekh kabab, rolled into one satisfying wrap.",
       "price": 420,
-      "img": "assets/menu/sausage+seekh-afghani.png"
+      "img": "assets/menu/sausage+seekh-afghani.webp"
     },
     {
       "id": 18,
@@ -176,7 +176,7 @@
       "category": "combos",
       "desc": "Our signature house special, loaded with a mix of our finest grilled meats and secret sauces.",
       "price": 650,
-      "img": "assets/menu/zinger-ultra.png"
+      "img": "assets/menu/zinger-ultra.webp"
     },
     {
       "id": 19,
@@ -184,7 +184,7 @@
       "category": "combos",
       "desc": "A generous sharing platter of our signature Afghani favourites, perfect for the table.",
       "price": 650,
-      "img": "assets/menu/doub-zinger-afghani-wrap.png"
+      "img": "assets/menu/doub-zinger-afghani-wrap.webp"
     },
     {
       "id": 20,
@@ -192,7 +192,7 @@
       "category": "combos",
       "desc": "A towering, larger-than-life burger stacked with layers of grilled meat and cheese.",
       "price": 700,
-      "img": "assets/gallery/one-monster-burger.jpeg"
+      "img": "assets/gallery/one-monster-burger.webp"
     },
     {
       "id": 21,
@@ -200,7 +200,7 @@
       "category": "fries",
       "desc": "Golden, crispy fries \u2014 the perfect side to any order.",
       "price": 150,
-      "img": "assets/menu/regular-fries.jpg"
+      "img": "assets/menu/regular-fries.webp"
     },
     {
       "id": 22,
@@ -208,7 +208,7 @@
       "category": "fries",
       "desc": "A bigger portion of our golden crispy fries, great for sharing.",
       "price": 200,
-      "img": "assets/menu/large-fries.png"
+      "img": "assets/menu/large-fries.webp"
     },
     {
       "id": 23,
@@ -216,7 +216,7 @@
       "category": "sauces",
       "desc": "Creamy house mayo, perfect for dipping fries or topping your wrap.",
       "price": 60,
-      "img": "assets/menu/mayo.png"
+      "img": "assets/menu/mayo.webp"
     },
     {
       "id": 24,
@@ -224,7 +224,7 @@
       "category": "sauces",
       "desc": "Add an extra layer of melted cheese to any order.",
       "price": 80,
-      "img": "assets/menu/cheese.png"
+      "img": "assets/menu/cheese.webp"
     },
     {
       "id": 25,
@@ -232,7 +232,7 @@
       "category": "sauces",
       "desc": "Our signature house chutni \u2014 a Mr. Khan Burger House original, tangy and full of flavour.",
       "price": 80,
-      "img": "assets/menu/phuppo-chutni.png"
+      "img": "assets/menu/phuppo-chutni.webp"
     },
     {
       "id": 26,
@@ -240,7 +240,7 @@
       "category": "drinks",
       "desc": "Chilled regular soft drink can, served ice-cold.",
       "price": 80,
-      "img": "assets/menu/drink.jpg"
+      "img": "assets/menu/drink.webp"
     },
     {
       "id": 27,
@@ -248,7 +248,7 @@
       "category": "drinks",
       "desc": "Chilled can of Sting energy drink for an extra kick.",
       "price": 100,
-      "img": "assets/menu/drink.jpg"
+      "img": "assets/menu/drink.webp"
     },
     {
       "id": 28,
@@ -256,7 +256,7 @@
       "category": "drinks",
       "desc": "Chilled diet soft drink can, served ice-cold.",
       "price": 100,
-      "img": "assets/menu/drink.jpg"
+      "img": "assets/menu/drink.webp"
     }
   ]
 }
